@@ -1,3 +1,4 @@
+![MasterHead](https://wallpaperaccess.com/full/3959399.jpg)
 <h1 align="center">Hi, I'm Harsh</h1>
 <h3 align="center">A passionate programmer & enthusiast in AI and Data Science</h3>
 
