@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://media.licdn.com/dms/image/C5612AQE1ELZSEGNiLQ/article-cover_image-shrink_600_2000/0/1595913839771?e=1714608000&v=beta&t=FXfw7Db2vtKgu2-fdm_BsCyUT0SGNBO1FTZYusxiIFE)
+![MasterHead](https://www.google.com/search?q=data+science+images&oq=data+science+image&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABNIBCDQ3NjFqMWo3qAIUsAIB&client=ms-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#vhid=KzDB-2G1P021MM&vssid=mosaic)
 <h1 align="center">Hi, I'm Harsh</h1>
 <h2 align="center">A passionate programmer & enthusiast in AI and Data Science</h2>
 
