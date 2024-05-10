@@ -1,6 +1,7 @@
 
 
-![MasterHead](https://www.google.com/search?q=data+science+images&oq=data+science+image&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQABiABDIHCAwQABiABNIBCDQ3NjFqMWo3qAIUsAIB&client=ms-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#vhid=KzDB-2G1P021MM&vssid=mosaic)
+
+
 <h1 align="center">Hi, I'm Harsh</h1>
 <h2 align="center">A passionate programmer & enthusiast in AI and Data Science</h2>
 
