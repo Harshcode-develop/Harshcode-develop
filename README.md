@@ -7,7 +7,7 @@
 
 <img align="right" height="200"  width="300" src="https://miro.medium.com/v2/resize:fit:1152/1*DwEvjqxqFz8dasO2QWSqig.png">
 
-- 🌱 I’m currently learning **Deep learning frameworks and Javascript programming language.**
+- 👨‍💻 All of my projects are available at [https://harshcode-develop.github.io/HarshTheAIEnthusiast/]
 
 - 📫 How to reach me **harshbhosale232@gmail.com**
  
