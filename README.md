@@ -1,7 +1,7 @@
 
 
 
-
+<meta name="google-site-verification" content="bMW93sMWZttxyjKn6__cgCyP9bnM-WTiKcnXWlm3M7c" />
 <h1 align="center">Hi, I'm Harsh</h1>
 <h2 align="center">A passionate programmer & enthusiast in AI and Data Science</h2>
 
