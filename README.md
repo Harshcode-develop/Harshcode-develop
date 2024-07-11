@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Harsh</h1>
 <h3 align="center">A passionate programmer & enthusiast in AI and Data Science</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1152/1*DwEvjqxqFz8dasO2QWSqig.png">
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1152/1*DwEvjqxqFz8dasO2QWSqig.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshcode-develop&label=Profile%20views&color=0e75b6&style=flat" alt="Harshcode-develop" /> </p>
 
