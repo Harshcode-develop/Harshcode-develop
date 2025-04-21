@@ -22,6 +22,12 @@
 
 ###
 
+<div align="center">
+  <img height="260" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -85,13 +91,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Harshcode-develop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="197" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Harshcode-develop&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshcode-develop/Harshcode-develop/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshcode-develop/Harshcode-develop/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harshcode-develop/Harshcode-develop/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
