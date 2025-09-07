@@ -40,7 +40,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,tensorflow,html,css,js,nodejs,react,next,express,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,tensorflow,html,css,js,nodejs,react,next,express,azure,aws,git,github)](https://skillicons.dev)
 
 ###
 
